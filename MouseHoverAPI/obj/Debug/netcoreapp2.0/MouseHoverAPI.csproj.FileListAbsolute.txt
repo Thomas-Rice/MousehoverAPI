@@ -1,0 +1,11 @@
+C:\Users\thomas.rice\Source\Repos\MouseHoverAPI\MouseHoverAPI\bin\Debug\netcoreapp2.0\MouseHoverAPI.deps.json
+C:\Users\thomas.rice\Source\Repos\MouseHoverAPI\MouseHoverAPI\bin\Debug\netcoreapp2.0\MouseHoverAPI.runtimeconfig.json
+C:\Users\thomas.rice\Source\Repos\MouseHoverAPI\MouseHoverAPI\bin\Debug\netcoreapp2.0\MouseHoverAPI.runtimeconfig.dev.json
+C:\Users\thomas.rice\Source\Repos\MouseHoverAPI\MouseHoverAPI\bin\Debug\netcoreapp2.0\MouseHoverAPI.dll
+C:\Users\thomas.rice\Source\Repos\MouseHoverAPI\MouseHoverAPI\bin\Debug\netcoreapp2.0\MouseHoverAPI.pdb
+C:\Users\thomas.rice\Source\Repos\MouseHoverAPI\MouseHoverAPI\obj\Debug\netcoreapp2.0\MouseHoverAPI.csprojResolveAssemblyReference.cache
+C:\Users\thomas.rice\Source\Repos\MouseHoverAPI\MouseHoverAPI\obj\Debug\netcoreapp2.0\MouseHoverAPI.csproj.CoreCompileInputs.cache
+C:\Users\thomas.rice\Source\Repos\MouseHoverAPI\MouseHoverAPI\obj\Debug\netcoreapp2.0\MouseHoverAPI.AssemblyInfoInputs.cache
+C:\Users\thomas.rice\Source\Repos\MouseHoverAPI\MouseHoverAPI\obj\Debug\netcoreapp2.0\MouseHoverAPI.AssemblyInfo.cs
+C:\Users\thomas.rice\Source\Repos\MouseHoverAPI\MouseHoverAPI\obj\Debug\netcoreapp2.0\MouseHoverAPI.dll
+C:\Users\thomas.rice\Source\Repos\MouseHoverAPI\MouseHoverAPI\obj\Debug\netcoreapp2.0\MouseHoverAPI.pdb
